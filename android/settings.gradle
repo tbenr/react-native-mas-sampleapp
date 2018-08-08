@@ -1,0 +1,3 @@
+rootProject.name = 'rnmas_sample'
+
+include ':app'
